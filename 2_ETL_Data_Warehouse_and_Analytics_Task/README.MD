@@ -1,4 +1,5 @@
 #### 1. Design Simple ETL
+![ETL](https://github.com/sonnyrd/SonnyRiadi_DE_Assessment/tree/main/2_ETL_Data_Warehouse_and_Analytics_Task/etl.png)
 
 #### 2. Design Simple Report
 for the report deisgn i'll be using spreadsheet ( recommended using data warehouse like BigQuery) 
